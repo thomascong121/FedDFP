@@ -1,5 +1,6 @@
 # FedDFP
 This repo contains the code of our paper "Flexible and Scalable Federated Learning with Deep Feature Prompts for Digital Pathology" which is now under review for npj Digital Medicine.
+
 Datasets
 ====
 You can access and download the data from the following links:
