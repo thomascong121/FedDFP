@@ -43,9 +43,11 @@ Training and testing can be done by running the following command:
 Citation
 ====
 If you find this code useful, please consider citing our paper:
+```
 @article{Cong2025FedDFP,
   title={Flexible and Scalable Federated Learning with Deep Feature Prompts for Digital Pathology},
   author={Cong, Cong and Liu, Sidong and Song, Yang and others},
   journal={npj Digital Medicine},
   year={2025}
 }
+```
