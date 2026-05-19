@@ -44,9 +44,11 @@ Citation
 ====
 If you find this code useful, please consider citing our paper:
 ```
-@article{cong2025flexible,
-  title={Flexible and Scalable Federated Learning with Deep Feature Prompts for Digital Pathology},
-  author={Cong, Cong and Song, Yang and Di Ieva, Antonio and Chou, Angela and Gill, Anthony J and Coiera, Enrico and Liu, Sidong},
-  year={2025}
+@article{cong2026flexible,
+  title={Flexible and scalable federated learning with deep feature prompts for digital pathology},
+  author={Cong, Cong and Song, Yang and Di Ieva, Antonio and Chou, Angela and J. Gill, Anthony and Coiera, Enrico and Liu, Sidong},
+  journal={npj Digital Medicine},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
